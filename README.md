@@ -20,3 +20,7 @@ ProjetManagement est une application web de gestion des projets.
    ```bash
    git clone [https://github.com/lajneffatma2007/life-bridge-.git](https://github.com/lajneffatma2007/life-bridge-.git)
    cd life-bridge-
+   2. Si vous utilisez WAMP ou XAMPP :
+   * Placez le projet dans le dossier www (WAMP) ou htdocs (XAMPP).
+   * Démarrez Apache et MySQL depuis l'interface de WAMP/XAMPP.
+   * Accédez au projet via http://localhost/life-bridge-.
