@@ -41,3 +41,24 @@ ProjetManagement est une application web de gestion des projets.
 3. Vérifiez l'installation de PHP en exécutant la commande suivante dans votre terminal :
    ```bash
    php -v
+   ## Contributions
+
+Nous remercions tous ceux qui ont contribué à ce projet !
+
+### Contributeurs
+
+Les personnes suivantes ont contribué à ce projet en ajoutant des fonctionnalités, en corrigeant des bugs ou en améliorant la documentation :
+
+- [Utilisateur1](https://github.com/lajneffatma2007) – Correction de bugs et amélioration des performances etc ...
+- [Utilisateur2](https://github.com/lajneffatma2007) – Ajout de la fonctionnalité X etc ...
+- [Utilisateur3](https://github.com/lajneffatma2007) – Rédaction de la documentation etc ...
+
+Si vous souhaitez contribuer, suivez les étapes ci-dessous pour faire un **fork**, créer une nouvelle branche et soumettre une **pull request**.
+
+### Comment contribuer ?
+
+1. **Fork le projet** : Allez sur la page GitHub du projet et cliquez sur le bouton **Fork** dans le coin supérieur droit pour créer une copie du projet dans votre propre compte GitHub.
+2. **Clonez votre fork** : Clonez le fork sur votre machine locale :
+   ```bash
+   git clone [https://github.com/lajneffatma2007/life-bridge-.git](https://github.com/lajneffatma2007/life-bridge-.git)
+   cd life-bridge-
