@@ -62,3 +62,16 @@ Si vous souhaitez contribuer, suivez les étapes ci-dessous pour faire un **fork
    ```bash
    git clone [https://github.com/lajneffatma2007/life-bridge-.git](https://github.com/lajneffatma2007/life-bridge-.git)
    cd life-bridge-
+   ## Licence
+
+
+### Exemple pour **Licence** :
+```markdown
+## Licence
+
+Ce projet est sous la licence **XXX**. Pour plus de détails, consultez le fichier [LICENSE](./LICENSE).
+
+### Détails sur la licence MIT
+
+La licence XXX est une licence de logiciel ...
+```
